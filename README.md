@@ -38,7 +38,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.discordapp.net/attachments/1360991809010012364/1365337830091657377/52a505cde2072d4c496dbbb94ee06391.png?ex=680cf171&is=680b9ff1&hm=b86f61558a4048c6bb12943597e15adf9f9caa6c4182de98bcea1864ba926b8c&=&format=webp&quality=lossless"  />
+  <img height="200" src=""  />
 </div>
 
 ###
