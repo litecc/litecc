@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages</h3>
+<h3 align="left">Working with</h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">🔥   Stats</h3>
+<h3 align="left">Stats</h3>
 
 ###
 
